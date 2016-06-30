@@ -1,27 +1,17 @@
-# <i>Taylor-Bot</i>
+# <i>cerner-Bot</i>
 رباتی با پشتیبانی از دو زبان فارسی و انگلیسی
 
 اوپن شده و نوشته شده توسط 
 
-[negative](https://telegram.me/negative_officiall)
+[mr.amirbagheri](https://telegram.me/amir_cli_api)
 
-قدرت گرفته از 
-
+یکم اسکی از
 TeleSeed !
 
-###به ما ستاره بدهید 
 
 **لیست **
 - [install](#install)
-- [anti crash](#run-by-anti-crash)
-- [Run self mode](#run-self-mode)
-- [install figlet plugin](#figlet)
 
-
-## تشکر از 
-[@MrJacki](https://telegram.me/MrJacki)
-
-[@UnFriendlly](https://telegram.me/UnFriendlly)
 
 #install 
 
@@ -29,8 +19,8 @@ TeleSeed !
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 ```
 ```sh
-git clone https://github.com/taylor-team/taylor-bot -b supergroups
-cd taylor-bot 
+git clone https://github.com/telecerner/cernerfull -b supergroups
+cd cernerfull
 ./launch.sh install 
 ./launch.sh # add phone
 ```
@@ -40,44 +30,11 @@ cd taylor-bot
 bash start.sh
 </code>
 
-#Run Self mode
-
-```sh
-sudo chmod +x selflaunch.sh
-./selflaunch.sh
-```
-
-#figlet
-
-```sh
-$ sudo apt-get install figlet
-$ figlet
-```
-
-#**updating v5**
-
-
-اپدیت 6 خرداد .
-
-**weather**
-
-**bin**
-
-**info**
-
-**infome**
-
-**voice**
-
-**translate.lua**
-
-**abjad**
-
 
 ##Run Api Telegram bot 
 
 ```sh
-cd taylor-bot
+cd cernerfull
 chmod +x apilaunch.sh
 cd 
 rm -rf .telegram-cli
