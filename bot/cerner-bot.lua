@@ -223,7 +223,7 @@ function create_config( )
     "owners",
     "arabic_lock",
     "set",
-    "plugins"
+    "plugins",
     "get",
     "broadcast",
     "invite",
@@ -233,7 +233,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {231427699},--Sudo users
+    sudo_users = {211673096},--Sudo users
     moderation = {data = 'data/moderation.json'},
     help_text_realm = [[
 Realm Commands:
