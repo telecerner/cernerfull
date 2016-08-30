@@ -1,15 +1,9 @@
 # <i>cerner-Bot</i>
-رباتی با پشتیبانی از دو زبان فارسی و انگلیسی
-
-اوپن شده و نوشته شده توسط 
-
 [mr.amirbagheri](https://telegram.me/amir_cli_api)
 
-یکم اسکی از
-TeleSeed !
 
 
-**لیست **
+راهنما
 - [install](#install)
 
 
@@ -24,13 +18,9 @@ cd cernerfull
 ./launch.sh install 
 ./launch.sh # add phone
 ```
-#Run by anti crash
-
-<code>
-bash start.sh
-</code>
 
 
+install bot api
 ##Run Api Telegram bot 
 
 ```sh
